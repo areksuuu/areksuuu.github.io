@@ -40,6 +40,11 @@
 
 }
 
+#imgs {
+  background-image: url(img/oopsie.png);
+  background-size: auto;
+}
+
 
 
 
@@ -59,6 +64,7 @@
 
 .img-title .responsive{
   background-size: cover;
+  background-size: auto;
 
 
 }
