@@ -28,7 +28,8 @@
 .jumbotron .jumbotron-special {
   background-image: url(img/customer.png);
   background-size: cover;
-  height: 770px;
+  height: auto;
+  Width: 100%;
   text-align: center;
 }
 
